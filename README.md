@@ -1,6 +1,6 @@
 <!-- Header -->
 <h2 align="left">
-  Hi there, I'm Saif Khan 👋
+  Hi there, I'm Saif Khan. 👋
 </h2>
 
 ## 🚀 About Me
